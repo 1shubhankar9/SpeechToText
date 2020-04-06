@@ -1,2 +1,2 @@
 # SpeechToText
-A python program to conver from speech to text
+A python program to convert from speech to text
